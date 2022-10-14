@@ -1,0 +1,25 @@
+# Traffic in Seattle
+##### Liam Johnson
+![Traffic View](https://cdn.geekwire.com/wp-content/uploads/2018/02/16576762442_d41d79a560_k-768x338.jpg)
+
+
+
+## Topic Overview
+This project intends to analyze and visualize various aspects of traffic data in Seattle, WA. Possible avenues of exploration include comparing traffic data such as amount of cars over a period of time between different parts of the city. Another possible option includes exploring data on the locations of traffic accidents and analyzing the results and identifying any patterns. Data on *alternative modes of transportation* such as bike usage and high occupancy vehicle usage could also be explored. Each of these options provides an oppourtunity to connect local traffic data to a larger topic effecting the city such as **climate change** as well as **civilian safety**.
+
+### Possible Data Sources
+- [Seattle Transportation Data](https://data.seattle.gov/browse?category=Transportation)
+- [Seattle ArcGIS Data](https://data-seattlecitygis.opendata.arcgis.com/)
+- [King County Data](https://data.kingcounty.gov/)
+
+
+### Additional Regions of Focus
+Some regions of Seattle which may be worth exploring specifically or in comparison with eachother:
+- Wallingford
+- Downtown
+- Capitol Hill
+- University District
+- SODO
+- Queen Anne
+
+![More Traffic](https://media.istockphoto.com/photos/freeway-traffic-picture-id484925722?s=612x612)
